@@ -1,2 +1,2 @@
 osoba1: Szczepankiewicz Jakub
-Osoba2: Młodożeniec Kacper
+Osoba3: Staskiewicz Marcin
